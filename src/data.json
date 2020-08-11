@@ -1,0 +1,23 @@
+[
+  {
+    "categoryName": "Beautiful Women Dress",
+    "src": "https://res.cloudinary.com/favourcodes/image/upload/v1594510808/juli-kosolapova-h6e1QApgI38-unsplash_ggey3g.jpg",
+    "price": "$139.99",
+    "liked": false,
+    "key": 1
+  },
+  {
+    "categoryName": "Beatiful Men Dress",
+    "src": "https://res.cloudinary.com/favourcodes/image/upload/v1594510804/joao-paulo-de-souza-oliveira-BBNPJnucqYQ-unsplash_d5ns7s.jpg",
+    "price": "$89.99",
+    "liked": true,
+    "key": 2
+  },
+  {
+    "categoryName": "Summer Denim Collection",
+    "src": "https://res.cloudinary.com/favourcodes/image/upload/v1594510806/honey-yanibel-minaya-cruz-YrYdmIVSE8Y-unsplash_vxwda9.jpg",
+    "price": "$249.99",
+    "liked": true,
+    "key": 3
+  }
+]
